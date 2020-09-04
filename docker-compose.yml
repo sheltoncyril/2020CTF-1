@@ -31,6 +31,7 @@ services:
     volumes:
       - ./conf/nginx/http.conf:/etc/nginx/nginx.conf
       - ./static:/static
+      - ./conf/nginx/.passwd:/etc/nginx/.passwd
       - ./data/certbot/conf:/etc/letsencrypt
       - ./data/certbot/www:/var/www/certbot
     ports:
