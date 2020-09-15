@@ -5,7 +5,7 @@
 
 ?>
 
-<script src="The_Interceptor/main.js"></script>
+<script src="main.js"></script>
 <span> Oops No Flag Here </span>
 
 <?php

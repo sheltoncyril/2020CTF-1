@@ -1,5 +1,5 @@
 <?php
 
-	$ctf_url = "https://ctf.sheltoncyril.io";
+	$ctf_url = "https://ctf.thundrcloud.net/challenges";
 	
 ?> 
