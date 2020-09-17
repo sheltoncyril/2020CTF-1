@@ -4,7 +4,7 @@ document.addEventListener("DOMContentLoaded",getflag())
 function getflag(){
     
     request = new asyncRequest()
-    request.open("GET", "request.php?gimme=1", true) 
+    request.open("GET", "request.php?gimme=1", true)
     request.send()
     
 }

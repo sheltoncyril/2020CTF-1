@@ -1,0 +1,29 @@
+Easy:
+1) inspect element
+2) whois
+3) dns records
+4) github challenge *
+5) geolocation
+6) Robots.txt
+7) Base64 / ROT13 (encoding decoding)  (cyberchef)
+8) QR code 
+9) More than just HTML (flag in a seperate js file)
+10) cookie hunt
+
+Medium:
+1) reverse image search
+2) console log javascript
+3) Ancient History (archive.org) (retrieve a deleted page)
+4) GET it now !! (GET & POST , make html form do  a GET req when it was designed to make a POST)
+5) The Interceptor (using browsers network tab)
+6) Agent Incorrect - (switching browser user agents)
+7) Not the usual IP (You are not a Russki) (http://ip-api.com/json/1.1.1.1?fields=countryCode)
+8) Logged Down : (error logs expose password)
+9) What if its Exif ? - (Exif data in images) (http://exif-viewer.com/)
+10) you did not call me :frowning: (obfuscated js and stray function)
+
+
+Hard:
+1) Git Raid    : (find the git repo which was made public unintensionally , analyze code)
+2) 
+3) 

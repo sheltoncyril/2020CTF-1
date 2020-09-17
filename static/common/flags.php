@@ -9,7 +9,9 @@
 		"FLAG_AMONG_COOKIES" 	=>	"flag{crum_bled_cookies}",
 		"GET_IT_NOW"			=>	"flag{you_did_getit_now}",
 		"NOT_THE_USUAL_IP"		=>	"flag{no_more_IN_IP}",
-		"THE_INTERCEPTOR"		=>	"flag{whoa_now_its_intercepted}"
+		"THE_INTERCEPTOR"		=>	"flag{whoa_now_its_intercepted}",
+		"LOGGED_DOWN"			=>	"flag{sneaky_pass_seeker}",
+		"GIT_RAID"				=>	"flag{hash_cracking_is_asmw}"
 	);
 
 
