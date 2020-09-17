@@ -1,0 +1,10 @@
+<?php
+
+	include '../common/template.php';
+
+	show_html_head("Ancient History");
+	echo "oops some was here , but was removed";
+	echo "<!-- oops some was here , but was removed -->";
+	show_html_foot(); 
+
+?>
