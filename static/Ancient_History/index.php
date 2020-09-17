@@ -3,7 +3,8 @@
 	include '../common/template.php';
 
 	show_html_head("Ancient History");
-	show_flag('ANCIENT_HISTORY');
+	echo "oops something was here , but was removed";
+	echo "<!-- oops something was here , but was removed -->";
 	show_html_foot(); 
 
-?> 
+?>
